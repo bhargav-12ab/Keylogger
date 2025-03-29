@@ -26,7 +26,7 @@ This project is a *remote keylogger* designed for *security monitoring and penet
 ### *Step 1: Set Up the Keylogger*
 1. Clone this repository:
    sh
-   git clone https://github.com/ABHI-1620/keylogger-project.git
+   git clone https://github.com/bhargav-12ab/keylogger-project.git
    cd keylogger-project
    
 2. Create a virtual environment:
